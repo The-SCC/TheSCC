@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The SCC – Sustainable Clothing & Activewear</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<!-- Hero Section -->
+    <header class="hero">
+        <div class="hero-content">
+            <h1>Sustainable, Stylish, Superior – The SCC Difference</h1>
+            <a href="#shop" class="btn">Shop Now</a>
+        </div>
+    </header>
+
+    <!-- Featured Collections -->
+    <section class="collections" id="shop">
+        <h2>Explore Our Collections</h2>
+        <div class="collection-grid">
+            <div class="collection">
+                <img src="https://source.unsplash.com/600x400/?tshirt,fashion" alt="T-Shirts">
+                <h3>T-Shirts</h3>
+            </div>
+            <div class="collection">
+                <img src="https://source.unsplash.com/600x400/?gym,clothes" alt="Gym Wear">
+                <h3>Gym Wear</h3>
+            </div>
+            <div class="collection">
+                <img src="https://source.unsplash.com/600x400/?socks,eco" alt="Socks & Accessories">
+                <h3>Socks & Accessories</h3>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 The SCC. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
+
